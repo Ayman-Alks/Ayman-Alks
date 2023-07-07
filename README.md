@@ -3,7 +3,7 @@
 `Level = Beginner` 🌱 
 
 Hi, I'm a 1st year BA-ICT student, diving head first into the programming world.
-A deep hunger for knowledge and the want the to create whatever I want drives me.
+A deep hunger for knowledge and the need to create whatever I want drives me.
 
 ### 🧰 Languages and Tools Currently Learning 
 
