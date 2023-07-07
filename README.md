@@ -1,11 +1,12 @@
-## Ayman Alks🐛
+## Ayman Alks 🐛
 
-`Level = Beginner` 🌱 
+🌱 `Level = Beginner` 
+
 
 Hi, I'm a 1st year BA-ICT student, diving head first into the programming world.
 A deep hunger for knowledge and the need to create whatever I want drives me.
 
-### 🧰 Languages and Tools currently studying
+### 🕹 Learning Languages and Tools 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -15,10 +16,16 @@ A deep hunger for knowledge and the need to create whatever I want drives me.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
-#
+### Reach out
+<a href="https://www.linkedin.com/in/ayman-alkholagi-786ba3219/">
+  <img 
+   align="centre" 
+   alt="Ayman's LinkedIN" 
+   width="30px"
+   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ### 📊 Stats - Newbie
-
 ![Aymans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-alks&show_icons=true&theme=default_repocard)
 
 <details>
