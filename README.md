@@ -24,6 +24,13 @@ A deep hunger for knowledge and the need to create whatever I want drives me.
    width="30px"
    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://twitter.com/TheAlkermist">
+  <img align="left" 
+    alt="Ayman Alks | Twitter" 
+    width="30px" 
+    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 
 ### 📊 Stats - Newbie
 ![Aymans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-alks&show_icons=true&theme=default_repocard)
