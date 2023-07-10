@@ -21,19 +21,23 @@ A deep hunger for knowledge and the need to create whatever I want drives me.
   <img 
    align="centre" 
    alt="Ayman's LinkedIN" 
-   width="30px"
-   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   width="40x"
+   src="https://img.icons8.com/color/48/linkedin.png" />
+  
 </a>
 <a href="https://twitter.com/TheAlkermist">
   <img align="left" 
     alt="Ayman Alks | Twitter" 
     width="30px" 
-    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
+
 
 
 ### 📊 Stats - Newbie
 ![Aymans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-alks&show_icons=true&theme=default_repocard)
+![Codewars](https://github.r2v.ch/codewars?user=The_Alkermist&theme=gradient)
+
 
 <details>
  <summary><h3>🧙‍♂️Ayman's Coding Journey</h3></summary>
