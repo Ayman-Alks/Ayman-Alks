@@ -35,9 +35,8 @@ A deep hunger for knowledge and the need to create whatever I want drives me.
 
 
 ### 📊 Stats - Newbie
-![Aymans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-alks&show_icons=true&theme=default_repocard)
 ![Codewars](https://github.r2v.ch/codewars?user=The_Alkermist&theme=gradient)
-
+![Aymans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-alks&show_icons=true&theme=default_repocard)
 
 <details>
  <summary><h3>🧙‍♂️Ayman's Coding Journey</h3></summary>
