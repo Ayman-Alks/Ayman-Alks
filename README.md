@@ -1,10 +1,8 @@
-## Ayman Alks 🐛
-
-🌱 `Level = Beginner` 
+## Ayman Alks
 
 
-Hi, I'm a 1st year BA-ICT student, diving head first into the programming world.
-A deep hunger for knowledge and the need to create whatever I want drives me.
+
+Hi, I'm a BA-ICT student
 
 ### 🕹 Learning Languages and Tools 
 
@@ -37,10 +35,6 @@ A deep hunger for knowledge and the need to create whatever I want drives me.
 ### 📊 Stats - Newbie
 ![Codewars](https://github.r2v.ch/codewars?user=The_Alkermist&theme=gradient)
 ![Aymans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-alks&show_icons=true&theme=default_repocard)
-
-<details>
- <summary><h3>🧙‍♂️Ayman's Coding Journey</h3></summary>
-   I've always wanted be able to build whatever I wanted to, it didn't matter what it was, just had fun doing so, and I like that about IT, particularly software, specifically games. The freedom that it provides to work on anything you want to, or anything that you need, and seeing it in action, hopefully working the way it was intended 😂 I've had a couple of small 2D pixel art Godot projects 🕹 but never really got far with it as I lack the know how. So here I am on a quest to learn the skills I need to and grow, and to finally have the ability to build dreams✨rather than just dream about it.  
 
 <!--
 **Ayman-Alks/Ayman-Alks** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
